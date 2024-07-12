@@ -1,2 +1,4 @@
 # Tourism-in-India
-This project involves an in-depth analysis of hotel prices in various Indian cities, using Power BI for data visualization and ChatGPT for advanced insights and interaction. The goal is to understand the distribution of hotel prices, categorize them into specific price groups, and provide actionable insights for stakeholder.
+This project involves an in-depth analysis of hotel prices in various Indian cities, using Power BI for data visualization and ChatGPT for advanced insights and interaction. The goal is to understand the distribution of hotel prices, categorize them into specific price groups, and provide actionable insights for stakeholderin the tourism and hospitality industry.
+
+This project leverages the power of Power BI for robust data analysis and visualization, combined with the advanced conversational capabilities of ChatGPT. The result is a comprehensive tool that not only provides detailed analysis of hotel prices but also facilitates interactive and insightful user engagement. This approach helps stakeholders make informed decisions, optimize pricing strategies, and ultimately enhance the tourism experience in India.
