@@ -1,0 +1,38 @@
+City	State	Attraction	Visitors (in thousands)	Revenue (in million USD)	Avg. Length of Stay (days)	Hotels (count)	Avg. Hotel Price (USD)	Restaurants (count)	Best Season to Visit	Transport Facilities	Popular Festival
+Jaipur	Rajasthan	Amber Fort	350	15.5	3	150	75	200	October to March	Good	Diwali
+Agra	Uttar Pradesh	Taj Mahal	800	40.3	2	250	100	300	October to March	Excellent	Taj Mahotsav
+Delhi	Delhi	India Gate	600	25.2	4	500	120	1000	October to March	Excellent	Republic Day
+Mumbai	Maharashtra	Gateway of India	700	35.1	3	700	150	1200	November to February	Excellent	Ganesh Chaturthi
+Bangalore	Karnataka	Lalbagh Botanical Garden	450	20.0	2	400	110	800	October to February	Good	Karaga Festival
+Chennai	Tamil Nadu	Marina Beach	500	22.4	3	350	90	600	November to February	Good	Pongal
+Kolkata	West Bengal	Victoria Memorial	300	18.3	4	200	80	400	October to March	Good	Durga Puja
+Hyderabad	Telangana	Charminar	450	21.8	3	300	95	700	October to February	Good	Bonalu
+Goa	Goa	Baga Beach	500	50.0	5	500	200	500	November to February	Excellent	Carnival
+Amritsar	Punjab	Golden Temple	600	30.5	2	150	85	250	October to March	Good	Baisakhi
+Udaipur	Rajasthan	City Palace	300	14.7	3	100	95	150	September to March	Good	Mewar Festival
+Varanasi	Uttar Pradesh	Kashi Vishwanath Temple	400	19.5	2	200	70	300	October to March	Moderate	Dev Deepawali
+Mysore	Karnataka	Mysore Palace	350	17.2	3	250	60	400	September to March	Good	Dasara
+Jaipur	Rajasthan	Hawa Mahal	300	14.2	3	150	75	200	October to March	Good	Diwali
+Kochi	Kerala	Fort Kochi	250	13.0	3	100	85	200	October to March	Good	Onam
+Ahmedabad	Gujarat	Sabarmati Ashram	200	10.5	2	150	65	250	November to February	Good	Navratri
+Pune	Maharashtra	Shaniwar Wada	220	11.1	2	200	90	400	November to February	Good	Ganesh Chaturthi
+Jodhpur	Rajasthan	Mehrangarh Fort	150	7.5	3	80	70	100	October to March	Moderate	Marwar Festival
+Shimla	Himachal Pradesh	The Ridge	250	12.5	4	150	100	200	March to June	Good	Summer Festival
+Manali	Himachal Pradesh	Rohtang Pass	300	16.0	5	250	120	300	March to June	Good	Winter Carnival
+Rishikesh	Uttarakhand	Laxman Jhula	200	10.2	3	100	70	150	September to November	Moderate	International Yoga Festival
+Ooty	Tamil Nadu	Ooty Lake	200	9.8	3	150	80	200	April to June	Moderate	Summer Festival
+Darjeeling	West Bengal	Tiger Hill	150	8.0	3	100	85	150	March to May	Moderate	Durga Puja
+Puri	Odisha	Jagannath Temple	300	15.4	2	200	70	300	October to March	Moderate	Rath Yatra
+Leh	Ladakh	Pangong Lake	100	5.2	6	50	150	80	June to September	Moderate	Hemis Festival
+Srinagar	Jammu & Kashmir	Dal Lake	200	12.0	4	200	140	300	April to October	Good	Tulip Festival
+Nainital	Uttarakhand	Naini Lake	150	7.6	3	100	90	150	March to June	Moderate	Nanda Devi Fair
+Mount Abu	Rajasthan	Dilwara Temples	100	5.1	2	80	65	100	March to June	Moderate	Summer Festival
+Khajuraho	Madhya Pradesh	Khajuraho Temples	100	6.5	3	100	85	120	October to March	Moderate	Khajuraho Dance Festival
+Rameswaram	Tamil Nadu	Ramanathaswamy Temple	150	7.3	2	80	70	150	October to April	Moderate	Maha Shivaratri
+Lucknow	Uttar Pradesh	Bara Imambara	150	7.8	2	100	75	200	October to March	Moderate	Lucknow Mahotsav
+Aurangabad	Maharashtra	Ajanta Caves	200	10.2	3	100	85	150	October to March	Moderate	Ellora Festival
+Chandigarh	Punjab	Rock Garden	100	5.5	2	100	90	200	October to March	Good	Rose Festival
+Bhubaneswar	Odisha	Lingaraj Temple	200	10.0	2	100	60	200	October to March	Good	Durga Puja
+Guwahati	Assam	Kamakhya Temple	150	8.0	2	80	55	150	October to March	Moderate	Ambubachi Mela
+Madurai	Tamil Nadu	Meenakshi Temple	200	9.0	2	150	65	250	October to March	Good	Chithirai Festival
+Tirupati	Andhra Pradesh	Tirumala Temple	600	30.0	2	300	90	400	October to March	Excellent	Brahmotsavam
